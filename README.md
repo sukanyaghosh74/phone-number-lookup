@@ -1,4 +1,4 @@
-# Phone Number Lookup Automation (Educational Project)
+33333# Phone Number Lookup Automation (Educational Project)
 
 This project helps you automate the process of:
 
@@ -125,9 +125,9 @@ The script will:
 
 ## 📌 Example Use Case
 
-You know someone uses a Jio number in Delhi, and their number ends in `02`. You suspect their name is "Anurag Sharma".
+You know someone uses a Jio number in Delhi, and their number ends in `02`. You suspect their name is "John Doe".
 
-* Generate all combinations of numbers like `62910xxxxx02`
+* Generate all combinations of numbers like `62910xxx02`
 * Run the lookup to find a number where the name returned is `John Doe`
 
 > ✅ The moment the script finds the name, it stops and shows you the full result.
