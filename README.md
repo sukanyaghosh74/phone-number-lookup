@@ -48,7 +48,7 @@ PhoneNumberLookup/
 
 ```bash
 git clone https://github.com/sukanyaghosh74/phone-number-lookup.git
-cd PhoneNumberLookup
+cd phone-number-lookup
 ```
 
 ### 2. Install Dependencies
