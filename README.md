@@ -104,8 +104,8 @@ python number_generator.py
 This will create a file called `generated_numbers.txt` with numbers like:
 
 ```
-629101234502
-629103567802
+6201234502
+6203567802
 ...
 ```
 
