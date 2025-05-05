@@ -1,4 +1,4 @@
-33333# Phone Number Lookup Automation (Educational Project)
+# Phone Number Lookup Automation (Educational Project)
 
 This project helps you automate the process of:
 
