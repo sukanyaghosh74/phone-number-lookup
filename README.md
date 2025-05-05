@@ -47,7 +47,7 @@ PhoneNumberLookup/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/sukanyaghosh74/PhoneNumberLookup.git
+git clone https://github.com/sukanyaghosh74/phone-number-lookup.git
 cd PhoneNumberLookup
 ```
 
